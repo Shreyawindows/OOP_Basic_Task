@@ -1,1 +1,2 @@
-# OOP_Basic_Task
+
+This Lab task was given by Debabarata Mallick --Lecturer at USTC FSET CSE Department.I ran the test code in my pc #VS_Code application. Which I installed from website and by installing JDK for java environment.
